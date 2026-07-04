@@ -116,11 +116,16 @@ Please ensure your code adheres to the existing coding style and includes approp
 
 This project is licensed under the MIT License.
 
+
 ## Author Info
 
--   **LinkedIn**: [Ugochukwu Nweze](https://www.linkedin.com/in/ugochukwu-nweze-08812a2b8)
--   **X (Twitter)**: [@CodesNum80638](https://x.com/CodesNum80638)
+*   **Num Codes**
+* <a href="https://wa.me/+2349037910725" title="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" height="32"/>
+</a>
 
+*   [Ugochukwu Nweze](https://www.linkedin.com/in/ugochukwu-nweze-08812a2b8)
+*   [@CodesNum80638](https://x.com/CodesNum80638)
 ---
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
